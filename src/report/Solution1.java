@@ -1,6 +1,12 @@
 package report;
 
 import java.util.*;
+/**
+ * @author sangho
+ * @date 2022. 4. 14. - 오후 4:01:46
+ * @subject
+ * @content
+ */
 public class Solution1 {
 
 		public int[] solution(String[] id_list, String[] report, int k) {
